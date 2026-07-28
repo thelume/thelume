@@ -2,7 +2,7 @@
 
 **Cybersecurity | Automação | Análise de Dados**
 
-Profissional de TI com background prático em Suporte, Infraestrutura e Governança, direcionando minha carreira para a Segurança da Informação e Dados. Como estudante de Sistemas de Informação, desenvolvi uma visão sistêmica que vai além do código: entendo a lógica de negócios, o mapeamento de processos e a necessidade de manter ecossistemas corporativos seguros e eficientes.
+Olá estou direcionando minha carreira e estudos para a Segurança da Informação e Dados. Como estudante de Sistemas de Informação, desenvolvi uma visão sistêmica que vai além do código: entendo a lógica de negócios, o mapeamento de processos e a necessidade de manter ecossistemas corporativos seguros e eficientes.
 
 Minha meta é unir conhecimentos de administração de sistemas (Linux/Redes) com o desenvolvimento de automações inteligentes, criando soluções que reduzem falhas humanas, otimizam o tempo e mitigam vulnerabilidades.
 

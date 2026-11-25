@@ -1,5 +1,5 @@
 <p align="center">
-<img width="1024" height="352" alt="lumeanimation-ezgif com-optimize" src="https://github.com/user-attachments/assets/382afba9-d78a-451c-9b27-665a7051ebbc" />
+  <img src="https://github.com/user-attachments/assets/944fb8e7-07e0-4067-a510-c3a0c800a7df" alt="LUME Banner" width="100%" />
 </p>
 
 # Lucas Melo
@@ -80,8 +80,3 @@ Por questões de confidencialidade e contexto corporativo/acadêmico, parte dos 
     <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
-
-<p align="center">
-  
-  <img src="https://github.com/user-attachments/assets/944fb8e7-07e0-4067-a510-c3a0c800a7df" alt="LUME Banner" width="100%" />
-  </p>

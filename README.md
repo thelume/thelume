@@ -6,7 +6,7 @@
 
 **Desenvolvimento • Dados • Automação • Cybersecurity**
 
-Formado em **Sistemas de Informação**, atuo na interseção entre desenvolvimento de software, dados, automação e segurança. Gosto de resolver problemas técnicos na prática — seja construindo APIs e aplicações web, estruturando bancos de dados, automatizando rotinas operacionais ou administrando ambientes Linux e redes.
+Formado em **Sistemas de Informação**, atuo na interseção entre desenvolvimento de software, dados, automação e segurança. Gosto de resolver problemas técnicos na prática, seja APIs e aplicações web, estruturando bancos de dados, automatizando rotinas operacionais ou administrando ambientes Linux e redes.
 
 Meu foco principal está em **Cybersecurity**, mas mantenho uma base versátil para atuar em **Engenharia de Software**, **Desenvolvimento**, **Dados**, **Automação** ou **Infraestrutura**, entregando soluções limpas e seguras.
 

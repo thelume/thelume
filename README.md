@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/944fb8e7-07e0-4067-a510-c3a0c800a7df" alt="LUME Banner" width="100%" />
+</p>
+
 # Lucas Melo
 
 **Desenvolvimento • Dados • Automação • Cybersecurity**
